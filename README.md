@@ -14,3 +14,6 @@ Tenha atenção a gramática do português brasileiro.
 Refaça seguindo os tópicos apresentados
 Escreva num estilo mais emotivo e coloquial
 Faça um título para o eBook. 
+
+Segue o link do repositório 
+https://github.com/Niele-creator/Ebook-AI/blob/main/Ebook%20sobre%20fam%C3%ADlias%20negras_20241216_152816_0000.pdf 
